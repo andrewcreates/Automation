@@ -1,0 +1,15 @@
+Quiz #2
+
+Name:
+
+Date:
+
+What is the capital of Arkansas?
+['Madison', 'Boise', 'Little Rock', 'Salt Lake City']
+
+What is the capital of Colorado?
+['Trenton', 'Denver', 'Bismarck', 'Oklahoma City']
+
+What is the capital of Mississippi?
+['Columbus', 'Jackson', 'Honolulu', 'Salem']
+

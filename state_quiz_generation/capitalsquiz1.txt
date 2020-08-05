@@ -1,0 +1,15 @@
+Quiz #1
+
+Name:
+
+Date:
+
+What is the capital of Florida?
+['Dover', 'Sacramento', 'Baton Rouge', 'Tallahassee']
+
+What is the capital of Oregon?
+['Salem', 'Carson City', 'Jefferson City', 'Columbia']
+
+What is the capital of Wisconsin?
+['Madison', 'Juneau', 'Juneau', 'Juneau']
+

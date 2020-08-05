@@ -1,0 +1,2 @@
+This should be updating my file.
+What does the "a" do?It seems the "a" appends, while the "w" overwrites.
